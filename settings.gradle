@@ -1,2 +1,3 @@
 rootProject.name = 'LowLevelDesign'
 include 'SolidPrinciples'
+include 'DesignPatterns'
