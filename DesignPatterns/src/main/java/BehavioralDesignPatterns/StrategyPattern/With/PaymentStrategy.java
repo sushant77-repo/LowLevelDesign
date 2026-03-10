@@ -1,4 +1,4 @@
-package Behavioral.With;
+package BehavioralDesignPatterns.StrategyPattern.With;
 
 // Strategy interface
 public interface PaymentStrategy {

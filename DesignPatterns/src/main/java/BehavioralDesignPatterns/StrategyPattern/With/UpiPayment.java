@@ -1,4 +1,4 @@
-package Behavioral.With;
+package BehavioralDesignPatterns.StrategyPattern.With;
 
 // Concrete implementation - for UPI payment strategy
 public class UpiPayment implements PaymentStrategy {

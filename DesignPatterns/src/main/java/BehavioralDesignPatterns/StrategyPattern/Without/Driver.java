@@ -1,4 +1,4 @@
-package Behavioral.Without;
+package BehavioralDesignPatterns.StrategyPattern.Without;
 
 public class Driver {
     public static void main(String[] args) {

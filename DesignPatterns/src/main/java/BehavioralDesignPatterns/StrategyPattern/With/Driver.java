@@ -1,4 +1,4 @@
-package Behavioral.With;
+package BehavioralDesignPatterns.StrategyPattern.With;
 
 public class Driver {
     public static void main(String[] args) {

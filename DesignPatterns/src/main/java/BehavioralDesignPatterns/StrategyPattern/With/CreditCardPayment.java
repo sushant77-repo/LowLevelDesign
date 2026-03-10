@@ -1,4 +1,4 @@
-package Behavioral.With;
+package BehavioralDesignPatterns.StrategyPattern.With;
 
 // Concrete implementation - for credit card payment strategy
 public class CreditCardPayment implements PaymentStrategy {

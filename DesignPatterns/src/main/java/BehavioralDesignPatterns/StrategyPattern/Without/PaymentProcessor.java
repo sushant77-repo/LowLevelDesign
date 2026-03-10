@@ -1,4 +1,4 @@
-package Behavioral.Without;
+package BehavioralDesignPatterns.StrategyPattern.Without;
 
 // A simple payment processor class - bloated with payment logic
 public class PaymentProcessor {

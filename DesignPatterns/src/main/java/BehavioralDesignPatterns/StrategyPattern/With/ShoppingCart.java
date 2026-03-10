@@ -1,4 +1,4 @@
-package Behavioral.With;
+package BehavioralDesignPatterns.StrategyPattern.With;
 
 // Context class - holds reference to a strategy object
 public class ShoppingCart {
