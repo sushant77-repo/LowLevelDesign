@@ -1,0 +1,6 @@
+package CreationalDesignPatterns.abstractfactorypattern;
+
+// Step 1: Abstract Product interfaces - Define product families
+public interface CarInterior {
+    void addInteriorComponents();
+}
